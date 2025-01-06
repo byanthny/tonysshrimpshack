@@ -1,3 +1,3 @@
 # Tony's Shrimp Shack
 
-My skrimps
+Website for my skrimps
